@@ -16,5 +16,7 @@ this is my first content
 ####
 done with changes 
 
+####
+Copyright 2014 Git.Training
 
 Sample website with plenty of files for demos
