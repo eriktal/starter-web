@@ -18,5 +18,6 @@ done with changes
 
 ####
 Copyright 2014 Git.Training
-Please fork this 
+Please fork this
+Adding a line for rebasing sample 
 Sample website with plenty of files for demos
