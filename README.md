@@ -12,7 +12,7 @@ This repository is for showing how Git and GitHub work
 
 ##### Content
 this is my first content
-
+adding more content for my stash.
 ####
 done with changes 
 
